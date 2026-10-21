@@ -23,8 +23,8 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://xindrahardjo.github.io" # Sesuaikan dengan username GitHub Anda
-baseurl: "/2026TEEP_Nathanael" # Wajib sama persis dengan nama repositori Anda"
+url: "https://xindrahardjo.github.io"
+baseurl: "/2026TEEP_Nathanael"
 
 github:
   username: xIndRaharjo # change to your GitHub username
